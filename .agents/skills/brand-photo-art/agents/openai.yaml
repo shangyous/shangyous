@@ -1,0 +1,4 @@
+interface:
+  display_name: "品牌照片艺术合成"
+  short_description: "从品牌概念与真实照片出发，制作有质感、自然融合并可精确局部修改的艺术效果图"
+  default_prompt: "使用 $brand-photo-art，根据我的品牌概念和原照片生成专属艺术合成图，保留真实人物和场景，并先检查材质、空间关系与摄影质感。"
